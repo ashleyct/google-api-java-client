@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.32.0](https://www.github.com/googleapis/google-api-java-client/compare/v1.31.5...v1.32.0) (2021-06-09)
+
+
+### Features
+
+* add `gcf-owl-bot[bot]` to `ignoreAuthors` ([#1813](https://www.github.com/googleapis/google-api-java-client/issues/1813)) ([56f5b8b](https://www.github.com/googleapis/google-api-java-client/commit/56f5b8be0a60cb1cf0b279743d85ef57d9aa46b6))
+
 ### [1.31.5](https://www.github.com/googleapis/google-api-java-client/compare/v1.31.4...v1.31.5) (2021-05-10)
 
 
